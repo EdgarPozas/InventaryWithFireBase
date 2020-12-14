@@ -20,24 +20,24 @@ First download the project or clone the repository.
 In order to start the project you have to add the project to Android studio. Next create a Firebase project and create the database.
 
 ## Views
-Login
+### Login
 ![Image](./captures/login.jpg)
 
-Register
+### Register
 ![Image](./captures/register.jpg)
 
-Manage account
+### Manage account
 ![Image](./captures/my_account_1.jpg)
 ![Image](./captures/my_account_2.jpg)
 
-Manage account - Edit
+### Manage account - Edit
 ![Image](./captures/update.jpg)
 
-Manage account - Delete
+### Manage account - Delete
 ![Image](./captures/delete.jpg)
 
-Create product
+### Create product
 ![Image](./captures/new_product.jpg)
 
-Main board
+### Main board
 ![Image](./captures/all.jpg)
